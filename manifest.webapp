@@ -1,16 +1,16 @@
 {
-  "version": "0.1",
-  "name": "Open Web App",
-  "description": "Your new awesome Open Web App",
-  "launch_path": "/app-template/index.html",
+  "version": "1.0",
+  "name": "FxOS Overlay Keyboard Reference App",
+  "description": "oh",
+  "launch_path": "/fxos-overlay-keyboard-reference-app/index.html",
   "icons": {
     "16": "/app-template/app-icons/icon-16.png",
     "48": "/app-template/app-icons/icon-48.png",
     "128": "/app-template/app-icons/icon-128.png"
   },
   "developer": {
-    "name": "Your Name",
-    "url": "http://yourawesomeapp.com"
+    "name": "Doug Sherk (:drs)",
+    "url": "http://mozilla.org"
   },
   "locales": {
     "es": {
@@ -26,5 +26,6 @@
       }
     }
   },
-  "default_locale": "en"
+  "default_locale": "en",
+  "overlay_keyboard" : true
 }
