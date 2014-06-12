@@ -1,6 +1,6 @@
 window.onload = function() {
   var content = document.getElementById('content');
-  content.style.height = (window.innerHeight - 100) + "px";
+  content.style.height = (window.innerHeight - 80) + "px";
 
   var contentInner = document.getElementById('content-inner');
   var innerHTML = '';

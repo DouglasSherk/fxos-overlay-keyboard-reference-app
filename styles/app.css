@@ -13,12 +13,17 @@
   background-color: red;
 }
 
-#content {
-  padding: 50px;
+#content-outer {
+  background-color: blue;
+}
 
+#content {
+  padding-top: 20px;
+
+  margin-top: 30px;
+  margin-bottom: 30px;
   overflow-y: scroll;
 
-  background-color: blue;
   text-align: center;
 
   will-change: scroll-position;
@@ -26,6 +31,8 @@
 
 #content-inner {
   color: white;
+
+  padding: 40px;
 }
 
 #footer {
