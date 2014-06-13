@@ -8,4 +8,9 @@ window.onload = function() {
     innerHTML += i + '<br>';
   }
   contentInner.innerHTML += innerHTML;
+
+  var button = document.getElementById('install-btn');
+  button.addEventListener('click', function(e) {
+    window.location.reload();
+  });
 };
