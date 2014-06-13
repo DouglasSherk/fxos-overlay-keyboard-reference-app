@@ -2,7 +2,7 @@
   "version": "1.0",
   "name": "FxOS Overlay Keyboard Reference App",
   "description": "oh",
-  "launch_path": "/fxos-overlay-keyboard-reference-app/index.html",
+  "launch_path": "/~dsherk/fxos-overlay-keyboard-reference-app/index.html",
   "icons": {
     "16": "/app-template/app-icons/icon-16.png",
     "48": "/app-template/app-icons/icon-48.png",
